@@ -1,9 +1,25 @@
-#1. Introduction: Leveraging NLP and to Analyze Aircraft Accidents
+# Aircraft Accident Analysis Using NLP and AI  
+This project leverages Natural Language Processing (NLP) and AI techniques to analyze and categorize 61,246 aircraft accident reports into five distinct clusters. 
+The goal is to identify recurring accident themes and recommend targeted measures to enhance aviation safety.  
+
+## Summary of Findings  
+- **Cluster 0 (Landing Phase):** 15,992 accidents  
+- **Cluster 1 (Initial Climb Phase):** 15,202 accidents  
+- **Cluster 2 (Uncontrolled Descent and Emergency Scenarios):** 14,872 accidents  
+- **Cluster 3 (Ground Operations):** 4,748 accidents  
+- **Cluster 4 (Miscellaneous Landing Issues):** 10,432 accidents  
+
+![download](https://github.com/user-attachments/assets/5f5cc80d-d33d-46f6-94ad-b08c4c65168d)
+
+## Objectives  
+- Extract actionable insights from historical accident data using NLP.  
+- Propose evidence-based recommendations to minimize aviation risks.  
+Overall Analysis
+The dataset highlights recurring themes in aircraft accidents, categorized into five clusters.
+Each cluster groups similar accident scenarios, providing insights into common factors and potential preventive measures.
+The Latent Dirichlet Allocation (LDA) results reveal critical themes related to flight phases, operational challenges, and equipment issues.
 ---
 Aviation has long prioritized safety, yet accidents remain a critical challenge. 
-
-According to the analysis, a total of 61,246 accidents have been clustered based on their descriptions and contributing factors: 15,992 in Cluster 0, 15,202 in Cluster 1, 14,872 in Cluster 2, 4,748 in Cluster 3, and 10,432 in Cluster 4. 
-![download](https://github.com/user-attachments/assets/5f5cc80d-d33d-46f6-94ad-b08c4c65168d)
 
 Cluster 0 (Total: 15,992 occurrences):
 Frequent themes involve landing issues such as runway excursions, midair collisions, and loss of control during flare/touchdown.
@@ -20,7 +36,10 @@ This cluster highlights incidents occurring during pushback/towing, standing ope
 Cluster 4 (Total: 10,432 occurrences):
 Focuses on landing issues, including nose-over/nose-down incidents, hard landings, and landing gear collapses.
 -These figures underscore the necessity of targeted interventions to enhance safety across all flight phases, from ground operations to landing.
+
 ![download](https://github.com/user-attachments/assets/6b16b9ad-fbb0-4c4c-887b-66ab7b4fc46e)
+
+
 #2. Natural Language Processing (NLP)
 ---
 -NLP, an Artificial Intelligence (AI) branch, offers transformative potential in analyzing and mitigating such accidents. 
