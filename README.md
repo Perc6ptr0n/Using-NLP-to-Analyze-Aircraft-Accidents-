@@ -14,7 +14,9 @@ The goal is to identify recurring accident themes and recommend targeted measure
 ## Objectives  
 - Extract actionable insights from historical accident data using NLP.  
 - Propose evidence-based recommendations to minimize aviation risks.
-  
+ ---
+
+ 
 ##Overall Analysis
 -The dataset highlights recurring themes in aircraft accidents, categorized into five clusters.
 -Each cluster groups similar accident scenarios, providing insights into common factors and potential preventive measures.
@@ -40,7 +42,7 @@ Focuses on landing issues, including nose-over/nose-down incidents, hard landing
 ![download](https://github.com/user-attachments/assets/6b16b9ad-fbb0-4c4c-887b-66ab7b4fc46e)
 
 ---
-## Natural Language Processing (NLP)
+## Natural Language Processing (NLP)##
 -NLP, an Artificial Intelligence (AI) branch, offers transformative potential in analyzing and mitigating such accidents. 
 -NLP can identify patterns, predict risks, and recommend preventive measures by extracting actionable insights from accident reports, maintenance logs, and communication transcripts.
 -This capability is critical for proactive safety management, especially when human oversight may overlook subtle correlations.
